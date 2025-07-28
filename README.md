@@ -41,6 +41,8 @@ ehole finger -l url.txt  // 从文件中加载url扫描
 ```
 ehole finger -u http://www.baidu.com // 单个url检测
 ```
+### 使用截图
+<img width="1708" height="696" alt="image" src="https://github.com/user-attachments/assets/6bc9fc46-f1d7-4a91-819f-c99acb2313fa" />
 
 ## 感谢
 
