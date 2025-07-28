@@ -1,0 +1,2 @@
+# EHole_magicPro
+在EHole_magic原本的基础上新增获取quake资产，更新hunter资产获取
