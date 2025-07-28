@@ -5,6 +5,7 @@
 指纹更新到2.2w
 
 （不影响原版功能的使用）
+原项目地址：https://github.com/lemonlove7/EHole_magic
 
 ### fofa识别
 
